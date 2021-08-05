@@ -2,3 +2,5 @@ Este es un archivo de prueba
 GIT
 Autor: juan Victor Bascope Castro
 Fecha: 5 de agoso de 2021
+
+En camar aparece alto pero no es tan alto.
