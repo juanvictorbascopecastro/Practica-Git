@@ -8,6 +8,7 @@ body{
     text-align: left;
     width: 70%;
     padding: 1em;
+    background-color: burlywood;
     margin: 0 auto;
 }
 .container h1{
@@ -21,4 +22,23 @@ body{
    font-weight: bold;
    margin: 0;
    padding: 0.5em;
+}
+.colores-bolivia{
+    text-align: center;
+    margin: 5%;
+    color: white;
+}
+.colores-bolivia .red .yellow .green{
+    width: 50%;
+    height: 50px;
+}
+.colores-bolivia .red{
+    background-color: red;
+}
+.colores-bolivia .yellow{
+    background-color: yellow;
+    color: #000;
+}
+.colores-bolivia .green{
+    background-color: green;
 }
