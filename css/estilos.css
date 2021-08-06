@@ -1,12 +1,7 @@
 body{
     text-align: left;
-<<<<<<< HEAD
     font-family: 'Courier New', Courier, monospace;
     color: blue;
-=======
-    font-family: 'Times New Roman', Times, serif;
-    color: rgb(145, 0, 48);
->>>>>>> cabecera
 }
 .container{
     border: 1px solid #DDD;
