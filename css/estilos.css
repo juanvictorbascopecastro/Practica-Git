@@ -1,5 +1,16 @@
 body{
-    text-align: center;
+    text-align: left;
     font-family: "Arial";
-    color: darkgoldenrod;
+    color: rgb(112, 112, 112);
+}
+.container{
+    border: 1px solid;
+    text-align: left;
+    width: 70%;
+    padding: 1em #DDD;
+    margin: 0 auto;
+}
+.container h1{
+    font-size: 20px;
+    background-color: bisque;
 }
