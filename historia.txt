@@ -9,3 +9,7 @@ MATER 2
 Experimento de REBASE.
 
 EXPERIMENTO 2
+
+Realizando modificaciones 1
+Realizando modificaciones 2
+Realizando modificaciones 3
